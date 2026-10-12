@@ -42,9 +42,7 @@ Key fields include Case ID, Case Date, Recovery Agency, Region, Loan Type, Delin
 
 ## Dashboard Preview
 
-Upload a screenshot of your dashboard into the repository's `images` folder.
 
-![Loan Recovery Dashboard](images/loan-analysis-dashboard.png)
 
 ## Key Performance Indicators
 
