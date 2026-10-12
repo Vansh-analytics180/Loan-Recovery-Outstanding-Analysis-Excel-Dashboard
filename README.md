@@ -79,6 +79,7 @@ The recovery rate measures recovered value relative to outstanding value. It is 
 ## Chart-by-Chart Analysis
 
 ### Dashboard 1: Overview
+<img width="1747" height="758" alt="Screenshot 2026-10-12 083854" src="https://github.com/user-attachments/assets/0e276162-2865-4c49-94e6-862733755a97" />
 
 #### 1. Total Cases
 
@@ -121,6 +122,7 @@ The recovery rate measures recovered value relative to outstanding value. It is 
 **Recommended action:** Track the rate by month, loan type, region, and recovery method. Confirm the business definition of outstanding amount before treating this metric as a formal collection-efficiency measure.
 
 ### Dashboard 2: Loan Analysis
+<img width="1745" height="756" alt="Screenshot 2026-10-12 083923" src="https://github.com/user-attachments/assets/f1e1e948-52a8-444f-8d53-51382584c98f" />
 
 #### 5. Outstanding Amount by Loan Type
 
@@ -163,6 +165,7 @@ The recovery rate measures recovered value relative to outstanding value. It is 
 **Recommended action:** Include recovery rate and average days open in the comparison before recommending operational changes.
 
 ### Dashboard 3: Recovery Method Analysis
+<img width="1720" height="722" alt="Screenshot 2026-10-12 083951" src="https://github.com/user-attachments/assets/cf142197-dd5e-43a8-aee7-e9eaef6ede66" />
 
 #### 9. Outstanding Amount by Recovery Method
 
@@ -195,6 +198,7 @@ The recovery rate measures recovered value relative to outstanding value. It is 
 **Recommended action:** Review sample sizes, delinquency mix, and costs alongside the rate. A higher observed rate does not by itself establish that the method is more effective.
 
 ### Dashboard 4: Total Outstanding Analysis
+<img width="1745" height="757" alt="Screenshot 2026-10-12 084023" src="https://github.com/user-attachments/assets/1c08fac9-96a8-437a-9ff7-71e03281c574" />
 
 #### 12. Outstanding Amount by Region
 
@@ -227,6 +231,7 @@ The recovery rate measures recovered value relative to outstanding value. It is 
 **Recommended action:** Compare legal costs with recovered amounts and case counts. Total cost alone does not indicate whether spending is excessive or justified.
 
 ### Dashboard 5: Month Analysis
+<img width="1680" height="722" alt="Screenshot 2026-10-12 084045" src="https://github.com/user-attachments/assets/c42e9b0c-bb0f-4633-aa23-c5d264a10e8a" />
 
 #### 15. Monthly Outstanding Amount
 
